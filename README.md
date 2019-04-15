@@ -1,3 +1,4 @@
+###https://github.com/metagenome-atlas/atlas;https://metagenome-atlas.readthedocs.io/en/latest/ is another good choose###
 **To update to the latest version, run `conda install metawrap-mg=1.1.8` (consider backing up your `bin/config-metawrap`file before you update)
 
 # MetaWRAP - a flexible pipeline for genome-resolved metagenomic data analysis
